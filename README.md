@@ -44,7 +44,7 @@ This repository documents **Project Module WK1-PM1 (Lab Setup)** from the Networ
 
 A home lab gives a safe, isolated place to practise security skills. Tools can be run, systems can be misconfigured and repaired, and snapshots allow a fast rollback, all without touching real systems or real networks.
 
-📄 The full formatted report is available in [`Report.pdf`]([NetworkWalks-Week_01-Cybersecurity-Lab_Setup/blob/main/Shan_Rasool_WK1-PM1_Lab_Setup_Report.pdf](https://github.com/shan-rasool/NetworkWalks-Week_01-Cybersecurity-Lab_Setup/blob/main/Shan_Rasool_WK1-PM1_Lab_Setup_Report.pdf)).
+📄 The full formatted report is available in [`Report.pdf`](Shan_Rasool_WK1-PM1_Lab_Setup_Report.pdf)).
 
 ---
 
